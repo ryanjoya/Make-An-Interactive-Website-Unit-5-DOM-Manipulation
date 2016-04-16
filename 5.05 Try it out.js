@@ -1,6 +1,6 @@
 var main = function() {
   $("li").click(function() {
-    $(this)
+    $(this).addClass("read");
   });
 };
 
