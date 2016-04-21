@@ -1,0 +1,1 @@
+$('.description').removeClass('description');
