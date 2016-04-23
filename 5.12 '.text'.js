@@ -1,0 +1,1 @@
+$('.read').text('Read more');
